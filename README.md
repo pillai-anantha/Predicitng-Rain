@@ -22,4 +22,4 @@
 
 *Constructed learning curves and ROC for all the models
 
-*The SVC model with linear kernel was the best model with 0.73 ROC score and test score of 0.853 .
+*The SVC model with rbf kernel was the best model with test accuracy of 0.86 (86%) and an AUC of 0.72
